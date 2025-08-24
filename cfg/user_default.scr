@@ -56,6 +56,14 @@ DESCRIPTION INFO_OPTIONS
 		{ "0" }
 	}
 	
+	"cl_clear_chat_on_disconnect"
+	{
+		"#TF_ClearTextChatOnDisconnect"
+		"#Tooltip_ClearTextChatOnDisconnect"
+		{ BOOL }
+		{ "0" }
+	}
+	
 	"chat_filter_settings"
 	{
 		"#TF_ChatFilterSettings"
@@ -525,6 +533,14 @@ DESCRIPTION INFO_OPTIONS
 		{ BOOL }
 		{ "0" }
 	}
+	
+	"bf_clean_spectator_hud"
+	{
+		"#BF_CleanSpectatorHUD"
+		"#Tooltip_CleanSpectatorHUD"
+		{ BOOL }
+		{ "0" }
+	}
 
 	"category5"
 	{
@@ -859,4 +875,3 @@ DESCRIPTION INFO_OPTIONS
 		{ "0" }
 	}
 }
-
