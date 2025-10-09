@@ -9,11 +9,18 @@ DESCRIPTION INFO_OPTIONS
 	}
 	"grub"
 	{
-		"by Grub
+		"Grub – Lead TF:Grub Dev
 		NOTICE :If I Forgot to credit someone in here, reach out to me"
 		{ BOOL }
 		{ "1" }
 	}		
+	"sergantdeath"
+	{
+		"Sargeant Death - The Balance Journalist"
+		"steamcommunity.com/profiles/76561199026136810"
+		{ BOOL }
+		{ "1" }
+	}
 	"category2"
 	{
 		"Weapon Models"
@@ -70,6 +77,13 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"Better Fortress 2 - The mod Grub Fortress is a fork of"
 		"github.com/ALIEN31ITA/Better-Fortress-2"
+		{ BOOL }
+		{ "1" }
+	}
+	"uvf"
+	{
+		"Ultimate Visual Fix Pack - agrastiOs, Nonhuman, Nonhuman, Whurr, PieSavvy, JarateKing, FlaminSarge"
+		"github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack"
 		{ BOOL }
 		{ "1" }
 	}

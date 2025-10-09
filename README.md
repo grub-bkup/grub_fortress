@@ -2,24 +2,34 @@
 
 Welcome to the Github page which stores the gamefiles for my TF2 Sourcemod
 
-Website : https://grub-fortress.github.io/
+[Discord](https://grub-fortress.github.io/discord)
 
-### uhh, i guess i might add more questions later
+[Website](https://grub-fortress.github.io)
 
 ## Credits
 
+- **Grub Fortress**
+  - **Grub** – Lead TF:Grub Dev  
+    https://www.youtube.com/@GrubTheBadMapper
+    
+  - **Sargeant Death** - The Balance Journalist  
+    https://steamcommunity.com/profiles/76561199026136810
+
 - **Weapon Models**
-  - **The Under Pressure – Haau, Dim**  
+  - **The Under Pressure** – Haau, Dim  
     https://gamebanana.com/mods/529270
     
-  - **The Perforator – Haau, kibbleknight**  
+  - **The Perforator** – Haau, kibbleknight  
     https://gamebanana.com/mods/516732
     
-  - **The Big Owen – Haau, kibbleknight**  
+  - **The Big Owen** – Haau, kibbleknight  
     https://gamebanana.com/mods/603188
     
-  - **The Pipebomb Launcher – Haau, Extra Ram**  
+  - **The Pipebomb Launcher** – Haau, Extra Ram  
     https://gamebanana.com/mods/418217
+
+  - **Der Erwecker** – Haau, Tabby  
+  https://gamebanana.com/mods/543039
 
 - **Community Help/Contributions**
   - **BetaM** – Custom Items, Credits menu, misc. fixes  
@@ -27,6 +37,9 @@ Website : https://grub-fortress.github.io/
     
   - **Better Fortress 2** – The mod Grub Fortress is a fork of  
     https://github.com/ALIEN31ITA/Better-Fortress-2
+    
+  - **Ultimate Visual Fix Pack** - agrastiOs, Nonhuman, Nonhuman, Whurr, PieSavvy, JarateKing, FlaminSarge  
+    https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack
     
   - **Team Fortress 2 Goldrush** – Removed MYM Hud, And V_Model Support  
     https://www.tf2goldrush.com/
